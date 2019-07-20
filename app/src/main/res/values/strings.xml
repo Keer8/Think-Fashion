@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Clueless Closet</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <!-- Login activity strings -->
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <!-- Outfit activity strings -->
+    <string name="add_clothes">Add Clothes</string>
+    <string name="new_outfit">Get new outfit</string>
+    <string name="search">Search outfits</string>
+    <string name="accessory">Accessories</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+
+    <!-- Popup search strings -->
+    <string name="search_hint">How do you want to look today?</string>
+    <string name="style_text">Enter some style 😎</string>
+
+    <string name="accessories_display">Accessories</string>
+    <string name="tops_display">Tops</string>
+    <string name="bottoms_display">Bottoms</string>
+
+    <string name="clothing_name">%1$s</string>
+
+    <string name="new_apparel_hint">Add some new apparel!</string>
+    <string name="apparel_category">Apparel Category</string>
+    <string name="photo_snap">Snap a photo of your apparel!</string>
+
+    <!-- Spinner items -->
+    <string name="accessories">Accessory</string>
+    <string name="tops">Top</string>
+    <string name="bottoms">Bottom</string>
+
+    <string name="cancel_button_text">Cancel</string>
+    <string name="save_button_text">Save</string>
+
+    <!-- pref strings -->
+    <string name="prefs">prefs</string>
+    <string name="save_email">save_email</string>
+    <string name="warmth_level">Warmth Level</string>
+    <string name="water_resistant">Water resistant?</string>
+</resources>
